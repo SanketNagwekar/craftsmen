@@ -1,0 +1,11 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: 'Lato', sans-serif;
+  background-color: #f8fafb;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  overflow-x: hidden;
+}
