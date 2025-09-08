@@ -22,7 +22,7 @@ A bachelor’s final-year project created for a construction client. End-to-end 
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/craftsmen.git
+git clone https://github.com/SanketNagwekar/craftsmen.git
 cd craftsmen
 # Backend
 cd backend && npm install && npm start
